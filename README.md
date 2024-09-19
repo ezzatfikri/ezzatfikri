@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I'm a Junior Full Stack Developer with a passion f
 - **Frameworks**: React, Node.js, Express, Bootstrap
 - **Tools**: Git, Docker, Jupyter, VS Code
 
-## 🚀 Projects
-
 ## 🤝 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ezzat-fikri-9a3589317/)
