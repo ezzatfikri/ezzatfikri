@@ -25,7 +25,6 @@ Feel free to reach out via
 -[Whatsapp](https://wa.me/601161151298)
 
 Thanks for stopping by! 🚀
-
-   (\(\
-   ( -.-)
-   o_(")(")
+(\(\
+( -.-)
+o_(")(")
